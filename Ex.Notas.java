@@ -1,4 +1,4 @@
-package exercicio1;
+package ex.Notas;
 
 import java.util.Scanner;
 
