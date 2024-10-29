@@ -1,4 +1,4 @@
-package ex.Notas;
+package Exercicios1;
 
 import java.util.Scanner;
 
