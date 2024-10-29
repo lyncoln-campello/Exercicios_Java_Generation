@@ -1,4 +1,4 @@
-package exercicio1;
+package ex.Salário;
 
 import java.util.Scanner;
 
