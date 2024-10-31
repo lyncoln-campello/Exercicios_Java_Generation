@@ -31,7 +31,7 @@ public class ExercicioFor {
 		if (inicio > fim) {
 
 			System.out.printf("Intervalo inválido! ");
-
+  
 		}
 		
 	}
